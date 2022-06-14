@@ -36,7 +36,6 @@ public class Code {
         for(int i=0;i<q;i++){
             int l=s.nextInt();
             int r=s.nextInt();
-            
             int ans=c.answer(n,a,l,r);
             System.out.println(ans);
         }
